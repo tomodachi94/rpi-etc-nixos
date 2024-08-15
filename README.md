@@ -1,4 +1,1 @@
-# rpi-`/etc/nixos`: NixOS configuration for a Raspberry Pi 3 B+
-
-- Buildable with `nixos-generators`
-
+**This repository has been deprecated. Future developments will happen in [`tomodachi94/dotfiles`](https://github.com/tomodachi94/dotfiles).
